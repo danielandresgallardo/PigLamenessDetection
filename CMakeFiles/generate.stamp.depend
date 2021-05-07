@@ -1,0 +1,54 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.18/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCUDAInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckLanguage.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Compiler/NVIDIA-CUDA.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindCUDA.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindCUDA/select_compute_arch.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindOpenMP.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows-NVIDIA-CUDA.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.18/Modules/WriteBasicConfigVersionFile.cmake
+C:/opencv/build/OpenCVConfig-version.cmake
+C:/opencv/build/OpenCVConfig.cmake
+C:/opencv/build/x64/vc15/lib/OpenCVConfig.cmake
+C:/opencv/build/x64/vc15/lib/OpenCVModules-debug.cmake
+C:/opencv/build/x64/vc15/lib/OpenCVModules-release.cmake
+C:/opencv/build/x64/vc15/lib/OpenCVModules.cmake
+D:/project/darknet-master/CMakeLists.txt
+D:/project/darknet-master/DarknetConfig.cmake.in
+D:/project/darknet-master/cmake/Modules/FindCUDNN.cmake
+D:/project/darknet-master/cmake/Modules/FindPThreads_windows.cmake
+D:/project/darknet-master/cmake/Modules/FindStb.cmake
+D:/project/darknet-master/src/version.h.in
+D:/project/darknet/CMakeFiles/3.18.0-rc4/CMakeCCompiler.cmake
+D:/project/darknet/CMakeFiles/3.18.0-rc4/CMakeCUDACompiler.cmake
+D:/project/darknet/CMakeFiles/3.18.0-rc4/CMakeCXXCompiler.cmake
+D:/project/darknet/CMakeFiles/3.18.0-rc4/CMakeRCCompiler.cmake
+D:/project/darknet/CMakeFiles/3.18.0-rc4/CMakeSystem.cmake
+D:/project/darknet/detect_cuda_compute_capabilities.cu
